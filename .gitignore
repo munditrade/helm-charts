@@ -6,7 +6,8 @@
 .settings
 .deploy
 venv
-charts/**/charts
 .cr-*
 /ct_*
 *.jar
+charts/keycloak/.bumpversion.cfg
+keycloak-*.tgz
